@@ -17,6 +17,27 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1GO7laKKmvbf9ZBON8Q2dCpHg4LzPYl36/view?usp=drive_link](https://drive.google.com/file/d/1GO7laKKmvbf9ZBON8Q2dCpHg4LzPYl36/view?usp=drive_link)
 
+### Experience
+<h3 align="left">Professional Experience:</h3>
+<div>
+  <h3>Cloud DevOps Engineer, 3M</h3>
+  <p><em>06/2022 – Present | Bangalore</em></p>
+  <p>Describe your responsibilities and achievements at 3M as a Cloud DevOps Engineer.</p>
+</div>
+
+<div>
+  <h3>CloudOps Engineer, Finxera India Private Limited</h3>
+  <p><em>09/2021 – 06/2022 | Chandigarh</em></p>
+  <p>Explain your role and contributions during your time at Finxera India Private Limited as a CloudOps Engineer.</p>
+</div>
+
+<div>
+  <h3>Research Assistant, Resec Systems Pvt. Ltd.</h3>
+  <p><em>08/2019 – 08/2021 | Chandigarh</em></p>
+  <p>Detail your responsibilities and accomplishments as a Research Assistant at Resec Systems Pvt. Ltd.</p>
+</div>
+
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
