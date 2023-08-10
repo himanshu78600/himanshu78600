@@ -35,7 +35,7 @@
     <h6>Cisco ACI Automation</h6>
   </div>
   <div style="flex: 1; background-color: #f0f0f0; padding: 20px; border-radius: 5px;">
-    <h6>OTApp Development</h6>
+    <h6>OTApp</h6>
   </div>
   <div style="flex: 1; background-color: #f0f0f0; padding: 20px; border-radius: 5px;">
     <h6>NAC/NAD Automation</h6>
@@ -45,13 +45,33 @@
 <div>
   <h3>CloudOps Engineer, Finxera India Private Limited</h3>
   <p><em>09/2021 – 06/2022 | Chandigarh</em></p>
-  <p>Explain your role and contributions during your time at Finxera India Private Limited as a CloudOps Engineer.</p>
+  <p>Hands-on experience with most of AWS offerings and integration, and migration of existing onpremises servers into virtualized hosting environments using EC2, S3, VPC, ELB, Auto scaling, with Cloud watch metrics integration. Setting up databases in AWS using RDS including MSSQL, MySQL, MongoDB & Dynamo DB. Actively engage in orchestrating containerized applications using Kubernetes, automating deployment, scaling, and management. Continuous Integration and Continuous Deployment (CI/CD) pipelines using Jenkins, GitLab CI/CD, or GitHub Actions to ensure frequent and reliable code releases. This includes setting up comprehensive testing procedures, monitoring application performance, and swiftly addressing any anomalies that arise.</p>
+  <h5>Projects</h5>
+  <div style="flex: 1; background-color: #f0f0f0; padding: 20px; border-radius: 5px;">
+    <h6>CFTPay</h6>
+  </div>
+  <div style="flex: 1; background-color: #f0f0f0; padding: 20px; border-radius: 5px;">
+    <h6>Passport</h6>
+  </div>
+  <div style="flex: 1; background-color: #f0f0f0; padding: 20px; border-radius: 5px;">
+    <h6>LeadsConnection</h6>
+  </div>
+  <div style="flex: 1; background-color: #f0f0f0; padding: 20px; border-radius: 5px;">
+    <h6>DebtManager</h6>
+  </div>
 </div>
 
 <div>
   <h3>Research Assistant, Resec Systems Pvt. Ltd.</h3>
   <p><em>08/2019 – 08/2021 | Chandigarh</em></p>
-  <p>Detail your responsibilities and accomplishments as a Research Assistant at Resec Systems Pvt. Ltd.</p>
+  <p> Implemented and managed state of the art infrastructure building blocks for high available applications using all the latest innovation (public and hybrid cloud). Managed and performed daily operations on the defined building blocks: IAAS, PAAS, SAAS. Maintained Cloud services in collaboration with other IT teams and according to defined processes (e.g. Incident Management and Change Management). Improved existing processes through sustainable solutions to recurring problems and enhancements to existing solutions by automation.</p>
+  <h5>Projects</h5>
+  <div style="flex: 1; background-color: #f0f0f0; padding: 20px; border-radius: 5px;">
+    <h6>AV TestBed</h6>
+  </div>
+  <div style="flex: 1; background-color: #f0f0f0; padding: 20px; border-radius: 5px;">
+    <h6>HackersPrey</h6>
+  </div>
 </div>
 
 
