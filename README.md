@@ -19,9 +19,27 @@
 
 ### Experience
 <div>
-  <h3>Cloud DevOps Engineer, 3M</h3>
+  <h4>Cloud DevOps Engineer, 3M</h4>
   <p><em>06/2022 – Present | Bangalore</em></p>
-  <p>Describe your responsibilities and achievements at 3M as a Cloud DevOps Engineer.</p>
+  <p>As a Cloud DevOps Engineer at 3M, I have responsibility for enterprise automation and application cloud enablement including refactoring of automation and applications to cloud-based capabilities. Having a deep understanding of DevOps, GCP/AWS/Azure delivery, GitHub, Ansible, Terraform, CI/CD, and release pipelines is critical. Work with a team to develop automation solutions for 3M’s large-scale cloud migration with focused efforts to accelerate and enhance applications with cloud capabilities. Design and develop new automation solutions and processes for cloud resource management. Improving agility and services for key stakeholders across business and IT to allow for business demand, quicker insights and strengthened focus during and after large-scale migrations of diverse global applications. Supporting co-employees, business and IT leaders as well as company clients by increasing the speed of adaption to the cloud and enabling transition with minimal business disruption.</p>
+  <h5>Projects</h5>
+  <div style="flex: 1; background-color: #f0f0f0; padding: 20px; border-radius: 5px;">
+    <h6>ZPA Automation</h6>
+    <!--
+    <p>Summary of another noteworthy project. Describe its impact and outcomes.</p>
+    <p><strong>Technologies:</strong> List of technologies used in the project</p>
+    <p><a href="Link to project repository">GitHub Repository</a></p>
+    -->
+  </div>
+  <div style="flex: 1; background-color: #f0f0f0; padding: 20px; border-radius: 5px;">
+    <h6>Cisco ACI Automation</h6>
+  </div>
+  <div style="flex: 1; background-color: #f0f0f0; padding: 20px; border-radius: 5px;">
+    <h6>OTApp Development</h6>
+  </div>
+  <div style="flex: 1; background-color: #f0f0f0; padding: 20px; border-radius: 5px;">
+    <h6>NAC/NAD Automation</h6>
+  </div>
 </div>
 
 <div>
