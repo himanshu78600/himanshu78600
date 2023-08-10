@@ -7,6 +7,16 @@
 
 <p align="left"> <a href="https://twitter.com/himanshu7860000" target="blank"><img src="https://img.shields.io/twitter/follow/himanshu7860000?logo=twitter&style=for-the-badge" alt="himanshu7860000" /></a> </p>
 
+- 🌱 I’m currently learning **Flask Framework**
+
+- 📝 I regularly write articles on [Cloud and DevOps](Cloud and DevOps)
+
+- 💬 Ask me about **Cloud, DevOps, Linux, Python**
+
+- 📫 How to reach me **himanshu.anand3031@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1GO7laKKmvbf9ZBON8Q2dCpHg4LzPYl36/view?usp=drive_link](https://drive.google.com/file/d/1GO7laKKmvbf9ZBON8Q2dCpHg4LzPYl36/view?usp=drive_link)
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
