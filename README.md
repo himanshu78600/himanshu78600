@@ -18,7 +18,6 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1GO7laKKmvbf9ZBON8Q2dCpHg4LzPYl36/view?usp=drive_link](https://drive.google.com/file/d/1GO7laKKmvbf9ZBON8Q2dCpHg4LzPYl36/view?usp=drive_link)
 
 ### Experience
-<h3 align="left">Professional Experience:</h3>
 <div>
   <h3>Cloud DevOps Engineer, 3M</h3>
   <p><em>06/2022 – Present | Bangalore</em></p>
